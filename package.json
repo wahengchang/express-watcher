@@ -1,0 +1,40 @@
+{
+  "name": "express-watcher",
+  "version": "1.0.0",
+  "description": "It is a middleware of monitoring Express router, this middleware can be used either globally or on a per-route basis and sends information of response time, used memory and CPU.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/express-watcher.git"
+  },
+  "keywords": [
+    "express",
+    "resource",
+    "ram",
+    "memory",
+    "cpu",
+    "json",
+    "response",
+    "time",
+    "router",
+    "watcher",
+    "watch",
+    "monitor",
+    "monitoring",
+    "report",
+    "request",
+    "each"
+  ],
+  "author": "wahengchang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/express-watcher/issues"
+  },
+  "homepage": "https://github.com/wahengchang/express-watcher#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
