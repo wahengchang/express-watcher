@@ -1,6 +1,6 @@
 # express-watcher
 
-It is a tool to solve the problem of resolving serise promise functions with parameter continuously. And there is not a solution but only resolving parallelly.
+It is a middleware of monitoring Express router, this middleware can be used either globally or on a per-route basis and sends information of response time, used memory and CPU.
 
 [![NPM](https://nodei.co/npm/express-watcher.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/express-watcher)
 
