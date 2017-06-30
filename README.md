@@ -5,6 +5,9 @@ It is a middleware of monitoring Express router, this middleware can be used eit
 [![NPM](https://nodei.co/npm/express-watcher.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/express-watcher)
 
 
+![jun-30-2017 23-02-52](https://user-images.githubusercontent.com/5538753/27741661-6eb37570-5de8-11e7-8d49-570251ee118d.gif)
+
+
 ## Install
 
 ```
