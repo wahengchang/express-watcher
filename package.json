@@ -1,6 +1,6 @@
 {
   "name": "express-watcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a middleware of monitoring Express router, this middleware can be used either globally or on a per-route basis and sends information of response time, used memory and CPU.",
   "main": "index.js",
   "scripts": {
