@@ -137,6 +137,8 @@ var resourceMonitorMiddlewareCB = function(req, res, next, cb){
         
         if(_m1 && _m0) {
           var diffJson = diffHandle(_m0, _m1, diffCPU, diffTime)
+
+          console.log('*_*_*_*_*_*_*_*_*_*_*_*\n', req.originalUrl)
           printDiffJson(diffJson)
           if(cb) cb(diffJson)
         }
