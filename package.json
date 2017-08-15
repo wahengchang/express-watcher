@@ -1,6 +1,6 @@
 {
   "name": "express-watcher",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "It is a middleware of monitoring Express router, this middleware can be used either globally or on a per-route basis and sends information of response time, used memory and CPU.",
   "main": "index.js",
   "scripts": {
@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/wahengchang/express-watcher#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "js-meter": "^1.0.0"
   }
 }
